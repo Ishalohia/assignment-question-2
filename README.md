@@ -24,6 +24,9 @@ Inside the loop, the code extracts the corresponding segment of plain text based
 9- An example usage is provided at the end of the code. The htmlContent, plainText, and plainTextPositions are defined, and the highlightHTMLContent function is called with these values to generate highlighted HTML content. The modified HTML is then logged to the console.
 
 
+<img width="845" alt="Screenshot 2023-08-06 at 6 06 38 PM" src="https://github.com/Ishalohia/assignment-question-2/assets/104261885/887a6bf5-59c1-42ce-b162-ca482de1a059">
+
+
 ## Jest test case file Exaplaination
 
 This Jest test case is responsible for testing the functionality of the highlightHTMLContent function. It imports the function from the module, defines a helper function removeHTMLTags to remove HTML tags from a string, and then sets up a test scenario using the provided HTML content, plain text, and positions to be highlighted. The expected output after highlighting is also defined.
